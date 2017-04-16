@@ -1,0 +1,7 @@
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\bin\Debug\CSStoUserScript.exe
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Debug\CSStoUserScript.csprojResolveAssemblyReference.cache
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Debug\CSStoUserScript.Form1.resources
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Debug\CSStoUserScript.Properties.Resources.resources
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Debug\CSStoUserScript.csproj.GenerateResource.Cache
+c:\users\stan\documents\visual studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Debug\CSStoUserScript.exe
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\bin\Debug\CSStoUserScript.exe.config

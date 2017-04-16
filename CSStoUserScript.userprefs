@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="CSStoUserScript\CSStoUserScript.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSStoUserScript\Form1.Designer.cs">
+    <Files>
+      <File FileName="CSStoUserScript\Form1.cs" Line="13" Column="5" />
+      <File FileName="CSStoUserScript\Form1.Designer.cs" Line="42" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSStoUserScript" expanded="True">
+            <Node name="CSStoUserScript" expanded="True">
+              <Node name="Form1.cs" expanded="True">
+                <Node name="Form1.Designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

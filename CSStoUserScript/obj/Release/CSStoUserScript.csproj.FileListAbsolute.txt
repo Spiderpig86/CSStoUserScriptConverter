@@ -1,0 +1,9 @@
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\bin\Release\CSStoUserScript.exe.config
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\bin\Release\CSStoUserScript.exe
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\bin\Release\FastColoredTextBox.dll
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.Properties.Resources.resources
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.csproj.GenerateResource.Cache
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.exe
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.csprojResolveAssemblyReference.cache
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.About.resources
+C:\Users\Stan\Documents\Visual Studio 2013\Projects\CSStoUserScript\CSStoUserScript\obj\Release\CSStoUserScript.Converter.resources
